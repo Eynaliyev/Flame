@@ -1,3 +1,5 @@
+// Just testing how git reacts to multiple commits
+
 if (Posts.find().count() === 0) {
   Posts.insert({
     title: 'Introducing Telescope',
